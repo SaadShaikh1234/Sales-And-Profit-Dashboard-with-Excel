@@ -17,7 +17,7 @@ This project showcases a **visually interactive Excel dashboard** that provides 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](./8cb0d8b8-8797-427a-820c-ef38ce356a22.png)
+![image](https://github.com/user-attachments/assets/1f48d689-dfe8-49a0-b80b-795a9223e623)
 
 ---
 
